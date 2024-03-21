@@ -11,4 +11,4 @@ Matplotlib,
 sklearn, 
 Pillow, 
 glob, 
-
+Se adjuntan algunos datos para probar los Notebooks
